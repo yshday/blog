@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+주로 Windows desktop client를 개발합니다.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+사용 가능한 언어/프레임워크 : c/c++(win32/mfc), c#(wpf), swift, javascript(node.js), php(laravel)
